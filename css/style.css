@@ -37,7 +37,7 @@
             align-items: center;
     width: 20,5rem;
     height: 1.25rem;
-    gap: 2rem;
+ 
 }
 .li-item {
     width: 7rem;
@@ -46,7 +46,14 @@
     font-size: 1rem;
     letter-spacing: 0,1px;
     color: #7f4d29;
+    text-align: center;
 }
+.li-a {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #251b0b;
+}
+ 
 .button1 {
     background-color: #b63cab;
     width: 6,25rem;
@@ -333,7 +340,7 @@
     -ms-grid-columns: 1fr 2rem 1fr;
     grid-template-columns: 1fr 1fr;
     grid-template-columns:repeat(auto-fit, min-max (1fr 1fr));
-    -ms-grid-rows: ;
+    -ms-grid-rows:3 ;
     grid-template-rows: repeat(3);
             grid-template-areas:
     "child-div1 child-div2"

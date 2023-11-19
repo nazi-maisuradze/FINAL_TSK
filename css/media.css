@@ -12,7 +12,7 @@
     -webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     transition: all 0.5s;
-
+    
 }
 .li-item:hover {
     height: 2rem;
@@ -22,15 +22,15 @@
     background-color: #f2c15f;
     -webkit-box-shadow: 5px 10px #ed9d1c;
     box-shadow: 5px 10px #ed9d1c;
-
+    transition: all;
 }
-
 .section-1-left:hover {
     -webkit-box-shadow:  5px 5px #392537 ;
             box-shadow:  5px 5px #392537 ;
     -webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     transition: all 0.5s;
+    transition: all;
 }
 .laduree-pic2:hover {
     -webkit-box-shadow:  5px 5px  #392537 ;
@@ -38,6 +38,7 @@
     -webkit-transition: all 1s ;
     -o-transition: all 1s ;
     transition: all 1s ;
+    transition: all;
 }
  /* section2 */
  .button2:hover {
@@ -47,11 +48,13 @@
     -webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     transition: all 0.5s;
+    transition: all;
  }
 
  /*section 3 */ 
  .sec-3-icon:hover {
     max-width: 3.2rem;
+    transition: all;
  }
 
  .form-but:hover {
@@ -61,6 +64,7 @@
     transition: all 0.5s;
     -webkit-box-shadow: 0.12rem 0.25rem;
             box-shadow: 0.12rem 0.25rem;
+            transition: all;
 }
 .social:hover {
     color: #f834e6;
@@ -69,17 +73,16 @@
     -webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     transition: all 0.5s;
-
+    transition: all;
 }
 .logo2:hover {
     -webkit-box-shadow: 5px 10px #ed9d1c;
             box-shadow: 5px 10px #ed9d1c;
     -webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
-    transition: all 0.5s;}
-
-
-
+    transition: all 0.5s;
+}
+    
 
 
 @media (max-width:1300px) {
@@ -116,7 +119,6 @@
     .cold {
         margin: 0 auto;
     }
-  
     .logo2 {
         margin-left: 2rem;
     }
@@ -205,8 +207,6 @@
     .logo2 {
         margin-left: 1.5rem;
     }
-
-
  }
 
  @media (max-width:480px)  {
@@ -233,7 +233,6 @@
     .section-1-left-p1 {
         margin-bottom: 1rem;
     }
-  
     .section-1-left {
         height: 18rem;
     }

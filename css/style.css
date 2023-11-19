@@ -37,7 +37,6 @@
             align-items: center;
     width: 20,5rem;
     height: 1.25rem;
- 
 }
 .li-item {
     width: 7rem;
@@ -52,8 +51,7 @@
     text-transform: uppercase;
     font-weight: bold;
     color: #251b0b;
-}
- 
+} 
 .button1 {
     background-color: #b63cab;
     width: 6,25rem;
@@ -61,7 +59,6 @@
     border-radius: 2rem;
     padding: 2rem ;
     text-align: center;
-
 }
 .button-p {
     text-transform: uppercase;
@@ -77,7 +74,6 @@
     display: none;
     position: absolute;
 }
-
 /*section 1 */ 
 
 .main {
@@ -112,8 +108,7 @@
             flex-direction: column;
     margin-right: 3rem;
     margin-left: 1rem;
-    /* margin: 1,5rem 3rem; */
-    
+    /* margin: 1,5rem 3rem; */ 
 }
 .section-1-left-p1 {
     width: 100%;
@@ -166,9 +161,7 @@
     -webkit-box-align: center;
         -ms-flex-align: center;
             align-items: center;
-    margin-bottom: 10rem;
-
-    
+    margin-bottom: 10rem;  
 }
 .section-2-wrapp {
     max-width: 37,5rem;
@@ -191,7 +184,9 @@
     height: 564px;
 }
 .section-2-h {
-    width:33,75rem;
+    width:33.
+    
+    75rem;
     /* width: 540px; */
     height: 6rem;
     font-weight: 900;
@@ -202,8 +197,6 @@
     row-gap: 2rem;
     font-family: 'Manrope', sans-serif;
     /* row-gap: 32px; */
-
-
 } 
 .section-2-p {
     width: 33,75rem;
@@ -227,10 +220,7 @@
     text-align: center;
     margin-top: 2rem;
 }
-
-/*section 3 */ 
-
-
+                     /*section 3 */ 
 .section-3 {
     width: 80%;
     margin: 0 auto;
@@ -254,7 +244,6 @@
     margin-bottom: 30px;
     font-family: 'Agbalumo';
 }
-
 .section-3-p{
     /* height: 109px; */
     color: #000000;
@@ -266,9 +255,7 @@
     margin: auto;
     margin-bottom: 3rem;
     font-family: 'Manrope', sans-serif;
-
 }
-
 .section-3-div-wrap {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -322,10 +309,7 @@
     margin-bottom: 5rem;
     font-family: 'Manrope', sans-serif;
  }
-
-
- /* section 4 */ 
-
+                    /* section 4 */ 
  .section-4 {
     background-color: antiquewhite;
     margin-top: 10rem;
@@ -407,17 +391,12 @@
     background-image: url(../img/65410235bbaa9_SOUS_MENU_COFFRETS_DE_MACARONS.webp);
  }
 
-
-
-
-
- /* form section */ 
+             /* form section */ 
 
  .form {
     max-width: 35rem;
     /* height: 40.5rem; */
     margin: 0 auto;
-
  }
 .form-icons {
     display: -webkit-box;
@@ -486,8 +465,7 @@
     border: none;
     margin: 2rem 10rem;
     color: white;
-    border-radius: 1rem;
-    
+    border-radius: 1rem;  
 }
 .map {
     max-width: 35rem;
@@ -503,9 +481,7 @@
 
 .footer {
     height: 10rem;
- 
 }
-
 .footer-dv {
     max-width: 100rem;
     max-width: 100%;
